@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/radial-dashboard/static/css/main.e6c13ad2.css",
+    "main.js": "/radial-dashboard/static/js/main.10c799ac.js",
+    "static/js/453.9ccf836e.chunk.js": "/radial-dashboard/static/js/453.9ccf836e.chunk.js",
+    "index.html": "/radial-dashboard/index.html",
+    "main.e6c13ad2.css.map": "/radial-dashboard/static/css/main.e6c13ad2.css.map",
+    "main.10c799ac.js.map": "/radial-dashboard/static/js/main.10c799ac.js.map",
+    "453.9ccf836e.chunk.js.map": "/radial-dashboard/static/js/453.9ccf836e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.10c799ac.js"
+  ]
+}
