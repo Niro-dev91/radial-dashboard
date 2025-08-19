@@ -42,7 +42,7 @@ npm start
 The app should now be running at http://localhost:3000.
 
 ## Usage
-
+```Text
 • Click + Add Asset to add a new asset to the dashboard.
 • Click - Remove Asset to remove the last asset.
 • Each asset is displayed as a rectangle around the circle with its name.
