@@ -4,7 +4,7 @@ A **React + SVG project** that demonstrates how to build a **radial dashboard** 
 
 ## Demo
 
-Check out the live demo here: [https://niro-dev91.github.io/radial-dashboard/]
+Check out the live demo here: https://niro-dev91.github.io/radial-dashboard/
 
 ## Features
 
